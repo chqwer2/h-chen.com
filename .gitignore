@@ -146,5 +146,5 @@ unet_cache/2.jpg
 
 *.pt
 
-*.jpg
+#*.jpg
 *.swp
